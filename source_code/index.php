@@ -1,3 +1,10 @@
+<!-- /*Saya Rakha Dhifiargo Hariadi
+ NIM 2209489 mengerjakan soal 
+ Tugas praktikum 4 dalam mata
+ kuliah DPBO
+ untuk keberkahanNya maka saya tidak
+ melakukan kecurangan seperti 
+ yang telah dispesifikasikan. Aamiin.*/ -->
 <?php
 // print_r($_POST);
 
